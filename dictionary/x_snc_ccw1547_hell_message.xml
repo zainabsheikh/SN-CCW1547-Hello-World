@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Message" max_length="40" name="x_snc_ccw1547_hell_message" type="collection">
+        <element display="true" label="Active" mandatory="true" max_length="40" name="active" type="boolean"/>
+        <element label="Message" mandatory="true" max_length="200" name="message" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

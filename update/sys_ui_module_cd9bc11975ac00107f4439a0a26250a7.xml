@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="CCW1547 Hello World">419bc11975ac00107f4439a0a26250a5</application>
+        <filter/>
+        <name>Messages</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_snc_ccw1547_hell.message_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-10-16 10:12:28</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>cd9bc11975ac00107f4439a0a26250a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Messages</sys_name>
+        <sys_package display_value="CCW1547 Hello World" source="x_snc_ccw1547_hell">5988c55575ac00107f4439a0a26250d7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW1547 Hello World">5988c55575ac00107f4439a0a26250d7</sys_scope>
+        <sys_update_name>sys_ui_module_cd9bc11975ac00107f4439a0a26250a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-10-16 10:12:28</sys_updated_on>
+        <table>x_snc_ccw1547_hell_message</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
